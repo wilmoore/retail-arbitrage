@@ -1,0 +1,17 @@
+{
+  "lastSequence": 1,
+  "items": [
+    {
+      "id": 1,
+      "title": "Batch directory structure with top-level index",
+      "description": "Create new 2026-02-06 batch directory for additional retail arbitrage items, add top-level README.md for easy navigation between batches",
+      "category": "chore",
+      "severity": "medium",
+      "fingerprint": "chore|1|batch-directory-structure-with-top-level-index",
+      "source": "/pro:chore",
+      "sourceBranch": "chore/batch-directory-structure",
+      "createdAt": "2026-02-06T12:03:00Z",
+      "status": "completed"
+    }
+  ]
+}
