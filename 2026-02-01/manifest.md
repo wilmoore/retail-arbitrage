@@ -6,7 +6,25 @@
 
 ---
 
+## Delegate Instructions
+
+> After creating each listing, **save the URL**. When finished with all items, send ALL URLs in a single batch message. See [main instructions](../README.md#delegate-instructions).
+
+---
+
+<!-- ITEM:item-1-hp-zbook-fury -->
 ## 1. HP ZBook Fury 15.6" G8 Workstation Laptop
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-1-hp-zbook-fury -->
+| Field | Value |
+|-------|-------|
+| **Status** | `HOLD` |
+| **Listing URL** | _Awaiting HP authorization_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
+
+> **DO NOT LIST** until HP responds with authorization (Case: CS0337651)
 
 **Category:** Electronics / Computers
 **Condition:** Used - Good
@@ -37,25 +55,32 @@
 - MIL-SPEC durability rating
 
 ### Images
-- [Lid closed - Z logo](images/IMG_15F287E5-648E-4C11-9A23-8639C1C54F66.JPEG) **(PRIMARY)**
-- [Open - keyboard view](images/IMG_95D7FFCA-F94E-4EDB-A325-9E666A75D235.JPEG)
-- [Side ports - right](images/IMG_6B3DAA88-3466-4232-B074-067C27311865.JPEG)
-- [Side ports - left](images/IMG_BAE1AAA9-56DC-40FA-BA8F-57BC8534C19C.JPEG)
-- [Bottom/serial label](images/IMG_8D263B7A-C3FB-4FDD-A5F1-61D35CC18707.JPEG)
-- [Closed side view](images/IMG_970676D9-AD89-4238-BDE4-AAF279F7C425.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Lid closed](images/IMG_15F287E5-648E-4C11-9A23-8639C1C54F66.JPEG) | Lid closed - Z logo **(PRIMARY)** |
+| ![Open keyboard](images/IMG_95D7FFCA-F94E-4EDB-A325-9E666A75D235.JPEG) | Open - keyboard view |
+| ![Right ports](images/IMG_6B3DAA88-3466-4232-B074-067C27311865.JPEG) | Side ports - right |
+| ![Left ports](images/IMG_BAE1AAA9-56DC-40FA-BA8F-57BC8534C19C.JPEG) | Side ports - left |
+| ![Bottom serial](images/IMG_8D263B7A-C3FB-4FDD-A5F1-61D35CC18707.JPEG) | Bottom/serial label |
+| ![Side view](images/IMG_970676D9-AD89-4238-BDE4-AAF279F7C425.JPEG) | Closed side view |
 
 ### Suggested Price Range
 $600 - $900 (G8 model, no power adapter included - buyer will need 200W HP adapter)
 
-### Status: PENDING HP AUTHORIZATION
-- **Case:** CS0337651 (originally opened April 12, 2024)
-- **Follow-up sent:** February 1, 2026 to Paul Andrighetti (HP HR)
-- **Action:** Awaiting written release/waiver or return label
-- **DO NOT LIST** until HP responds with authorization
-
 ---
 
+<!-- ITEM:item-2-trek-fx-hybrid-bike -->
 ## 2. Trek FX Hybrid Fitness Bike
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-2-trek-fx-hybrid-bike -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Sports & Outdoors / Bicycles
 **Condition:** Used - Good
@@ -77,21 +102,35 @@ $600 - $900 (G8 model, no power adapter included - buyer will need 200W HP adapt
 - Hydraulic disc brakes for all-weather stopping
 - Internal cable routing for clean look
 - Great for commuting, fitness, recreation
+- Frame size XXL - ideal for riders 6'2"+ (188cm+)
 
 ### Images
-- [Drive side profile](images/IMG_2889.jpg) **(PRIMARY)**
-- [Non-drive side](images/IMG_2890.jpg)
-- [Front view](images/IMG_2891.jpg)
-- [Rear drivetrain detail](images/IMG_2886.JPG)
-- [Cockpit/handlebars](images/IMG_2894.jpg)
-- [Additional angles](images/IMG_6CB8C199-D8A2-4E12-9F47-1B1F45F6D3CE.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Drive side](images/IMG_2889.jpg) | Drive side profile **(PRIMARY)** |
+| ![Non-drive](images/IMG_2890.jpg) | Non-drive side |
+| ![Front](images/IMG_2891.jpg) | Front view |
+| ![Drivetrain](images/IMG_2886.JPG) | Rear drivetrain detail |
+| ![Cockpit](images/IMG_2894.jpg) | Cockpit/handlebars |
+| ![Additional](images/IMG_6CB8C199-D8A2-4E12-9F47-1B1F45F6D3CE.JPEG) | Additional angles |
 
 ### Suggested Price Range
 $350 - $500
 
 ---
 
+<!-- ITEM:item-3-dji-mic-2 -->
 ## 3. DJI Mic 2 Wireless Microphone System
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-3-dji-mic-2 -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Electronics / Audio Equipment
 **Condition:** Used - Like New
@@ -123,20 +162,33 @@ $350 - $500
 - Works with iPhone, Android, cameras
 
 ### Images
-- [Full kit - case open](images/IMG_2960.JPG) **(PRIMARY)**
-- [Transmitters and receiver](images/IMG_2961.JPG)
-- [Connected to laptop](images/IMG_2962.JPG)
-- [Charging case closed](images/IMG_2964.JPG)
-- [With windscreens](images/IMG_2967.JPG)
-- [Carrying pouch](images/IMG_2968.JPG)
-- [In-use charging](images/IMG_FB85964E-CC00-402F-BE1C-70E0DD454634.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Full kit](images/IMG_2960.JPG) | Full kit - case open **(PRIMARY)** |
+| ![TX and RX](images/IMG_2961.JPG) | Transmitters and receiver |
+| ![Laptop](images/IMG_2962.JPG) | Connected to laptop |
+| ![Case closed](images/IMG_2964.JPG) | Charging case closed |
+| ![Windscreens](images/IMG_2967.JPG) | With windscreens |
+| ![Pouch](images/IMG_2968.JPG) | Carrying pouch |
+| ![Charging](images/IMG_FB85964E-CC00-402F-BE1C-70E0DD454634.JPEG) | In-use charging |
 
 ### Suggested Price Range
 $250 - $300
 
 ---
 
+<!-- ITEM:item-4-canvas-camera-backpack -->
 ## 4. Canvas Camera/DSLR Backpack
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-4-canvas-camera-backpack -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Camera & Photo / Bags
 **Condition:** Used - Good
@@ -152,19 +204,32 @@ $250 - $300
 - Fits DSLR + 2-3 lenses
 
 ### Images
-- [Front view](images/IMG_2939.jpg) **(PRIMARY)**
-- [Side pockets](images/IMG_2940.jpg)
-- [Interior - main compartment](images/IMG_2941.jpg)
-- [Top compartment](images/IMG_2942.jpg)
-- [Dividers detail](images/IMG_2946.jpg)
-- [Fully open](images/IMG_6E833708-7783-4CE4-8019-25980A7C9293.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Front](images/IMG_2939.jpg) | Front view **(PRIMARY)** |
+| ![Side pockets](images/IMG_2940.jpg) | Side pockets |
+| ![Interior main](images/IMG_2941.jpg) | Interior - main compartment |
+| ![Top](images/IMG_2942.jpg) | Top compartment |
+| ![Dividers](images/IMG_2946.jpg) | Dividers detail |
+| ![Fully open](images/IMG_6E833708-7783-4CE4-8019-25980A7C9293.JPEG) | Fully open |
 
 ### Suggested Price Range
 $30 - $50
 
 ---
 
+<!-- ITEM:item-5-usb-condenser-microphone -->
 ## 5. USB Condenser Microphone with Boom Arm
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-5-usb-condenser-microphone -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Electronics / Audio Equipment
 **Condition:** Used - Good
@@ -179,14 +244,27 @@ $30 - $50
 - Ideal for podcasting, streaming, voiceover
 
 ### Images
-- [Full setup](images/IMG_11E08717-4869-4614-A7DD-02391C8B88F3.JPEG) **(PRIMARY)**
+
+| Preview | Description |
+|---------|-------------|
+| ![Full setup](images/IMG_11E08717-4869-4614-A7DD-02391C8B88F3.JPEG) | Full setup **(PRIMARY)** |
 
 ### Suggested Price Range
 $40 - $60
 
 ---
 
+<!-- ITEM:item-6-stainless-steel-knife-set -->
 ## 6. Stainless Steel Kitchen Knife Set
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-6-stainless-steel-knife-set -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Home & Kitchen
 **Condition:** Used - Good
@@ -199,15 +277,28 @@ $40 - $60
 - Santoku knife (with Granton edge)
 
 ### Images
-- [All pieces](images/IMG_2951.jpg) **(PRIMARY)**
-- [Handles detail](images/IMG_2950.jpg)
+
+| Preview | Description |
+|---------|-------------|
+| ![All pieces](images/IMG_2951.jpg) | All pieces **(PRIMARY)** |
+| ![Handles](images/IMG_2950.jpg) | Handles detail |
 
 ### Suggested Price Range
 $15 - $25
 
 ---
 
+<!-- ITEM:item-7-flexible-phone-tripod -->
 ## 7. Flexible Phone Tripod (GorillaPod Style)
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-7-flexible-phone-tripod -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Electronics / Camera Accessories
 **Condition:** Used - Good
@@ -220,16 +311,29 @@ $15 - $25
 - Wraps around poles, branches, etc.
 
 ### Images
-- [Standing](images/IMG_2953.jpg) **(PRIMARY)**
-- [Wrapped demo](images/IMG_2954.jpg)
-- [With capture card](images/IMG_ACEC8CF6-563B-4D84-9E6F-9643F1F56C92.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Standing](images/IMG_2953.jpg) | Standing **(PRIMARY)** |
+| ![Wrapped](images/IMG_2954.jpg) | Wrapped demo |
+| ![Capture card](images/IMG_ACEC8CF6-563B-4D84-9E6F-9643F1F56C92.JPEG) | With capture card |
 
 ### Suggested Price Range
 $10 - $15
 
 ---
 
+<!-- ITEM:item-8-selfie-stick-tripod -->
 ## 8. Selfie Stick / Tripod Combo
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-8-selfie-stick-tripod -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Electronics / Camera Accessories
 **Condition:** Used - Good
@@ -242,16 +346,29 @@ $10 - $15
 - Compact/portable
 
 ### Images
-- [Collapsed](images/IMG_2955.jpg) **(PRIMARY)**
-- [Tripod mode](images/IMG_2956.jpg)
-- [Fully extended](images/IMG_2957.jpg)
+
+| Preview | Description |
+|---------|-------------|
+| ![Collapsed](images/IMG_2955.jpg) | Collapsed **(PRIMARY)** |
+| ![Tripod mode](images/IMG_2956.jpg) | Tripod mode |
+| ![Extended](images/IMG_2957.jpg) | Fully extended |
 
 ### Suggested Price Range
 $15 - $20
 
 ---
 
+<!-- ITEM:item-9-car-charger -->
 ## 9. Car Charger (USB-A + USB-C PD 30W)
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-9-car-charger -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Electronics / Car Accessories
 **Condition:** Used - Good
@@ -263,14 +380,27 @@ $15 - $20
 - Fast charging capable
 
 ### Images
-- [In car](images/IMG_2959.JPG) **(PRIMARY)**
+
+| Preview | Description |
+|---------|-------------|
+| ![In car](images/IMG_2959.JPG) | In car **(PRIMARY)** |
 
 ### Suggested Price Range
 $8 - $12
 
 ---
 
+<!-- ITEM:item-10-camping-hammock -->
 ## 10. Camping Hammock with Tree Straps
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-10-camping-hammock -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Good
@@ -283,17 +413,30 @@ $8 - $12
 - Stuff sack
 
 ### Images
-- [Laid out](images/IMG_C6844D17-1514-4932-90C9-23E4F07776E7.JPEG) **(PRIMARY)**
-- [Extended](images/IMG_813FCBE9-E26F-4284-9761-A7C4D998B2BA.JPEG)
-- [With straps](images/IMG_2AAAAA67-A8FB-4794-86FB-5995F8B52935.JPEG)
-- [Packed in stuff sack](images/IMG_A1D2CD93-5CF2-480C-B86D-088D77689BDE.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Laid out](images/IMG_C6844D17-1514-4932-90C9-23E4F07776E7.JPEG) | Laid out **(PRIMARY)** |
+| ![Extended](images/IMG_813FCBE9-E26F-4284-9761-A7C4D998B2BA.JPEG) | Extended |
+| ![Straps](images/IMG_2AAAAA67-A8FB-4794-86FB-5995F8B52935.JPEG) | With straps |
+| ![Packed](images/IMG_A1D2CD93-5CF2-480C-B86D-088D77689BDE.JPEG) | Packed in stuff sack |
 
 ### Suggested Price Range
 $20 - $35
 
 ---
 
+<!-- ITEM:item-11-inflatable-camping-pillows -->
 ## 11. Inflatable Camping Pillows (Set of 2)
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-11-inflatable-camping-pillows -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Good
@@ -305,14 +448,27 @@ $20 - $35
 - Set of 2
 
 ### Images
-- [Both pillows](images/IMG_2C4840CF-5636-41DB-BAE0-D56D6F170518.JPEG) **(PRIMARY)**
+
+| Preview | Description |
+|---------|-------------|
+| ![Both pillows](images/IMG_2C4840CF-5636-41DB-BAE0-D56D6F170518.JPEG) | Both pillows **(PRIMARY)** |
 
 ### Suggested Price Range
 $10 - $15
 
 ---
 
+<!-- ITEM:item-12-puma-quilted-tote -->
 ## 12. Puma Quilted Tote Bag
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-12-puma-quilted-tote -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Bags & Accessories
 **Condition:** Used - Good
@@ -326,15 +482,28 @@ $10 - $15
 - Rose gold zipper pulls and accents
 
 ### Images
-- [Front view](images/IMG_F96C7550-2E70-4594-982F-3352C35309F6.JPEG) **(PRIMARY)**
-- [Interior](images/IMG_36F229E3-8010-44F4-BFAA-AED6DB756379.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Front](images/IMG_F96C7550-2E70-4594-982F-3352C35309F6.JPEG) | Front view **(PRIMARY)** |
+| ![Interior](images/IMG_36F229E3-8010-44F4-BFAA-AED6DB756379.JPEG) | Interior |
 
 ### Suggested Price Range
 $20 - $35
 
 ---
 
+<!-- ITEM:item-13-poler-duffel-bag -->
 ## 13. Poler Duffel Bag / Backpack
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-13-poler-duffel-bag -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Bags & Accessories
 **Condition:** Used - Good
@@ -348,17 +517,30 @@ $20 - $35
 - Durable construction
 
 ### Images
-- [Front - logo visible](images/IMG_85CE2463-C019-4599-8DD7-9E4AB5E8115A.JPEG) **(PRIMARY)**
-- [Back/straps](images/IMG_8114925F-DBB2-4C37-88F3-DAABF1B36C85.JPEG)
-- [Interior pockets](images/IMG_714F94A3-2471-4400-944B-32453AF04E81.JPEG)
-- [Open view](images/IMG_C6AC3C03-DDCE-4037-BC84-D05206E8FD22.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Front logo](images/IMG_85CE2463-C019-4599-8DD7-9E4AB5E8115A.JPEG) | Front - logo visible **(PRIMARY)** |
+| ![Back straps](images/IMG_8114925F-DBB2-4C37-88F3-DAABF1B36C85.JPEG) | Back/straps |
+| ![Interior](images/IMG_714F94A3-2471-4400-944B-32453AF04E81.JPEG) | Interior pockets |
+| ![Open](images/IMG_C6AC3C03-DDCE-4037-BC84-D05206E8FD22.JPEG) | Open view |
 
 ### Suggested Price Range
 $25 - $40
 
 ---
 
+<!-- ITEM:item-14-book-collection -->
 ## 14. Book Collection (Business/Tech/Self-Improvement)
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-14-book-collection -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Books
 **Condition:** Used - Good
@@ -376,16 +558,29 @@ $25 - $40
 9. **Wealth Without Cash** - Pace Morby
 
 ### Images
-- [Stack view](images/IMG_2DE353B9-3251-486A-9CC9-097CC6C94D45.JPEG) **(PRIMARY)**
-- [Individual covers](images/IMG_81CE2D72-3913-484D-BC09-A12FFE7E592D.JPEG)
-- [More covers](images/IMG_0CA9D421-543B-4883-A82C-6C04044EBDF5.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Stack](images/IMG_2DE353B9-3251-486A-9CC9-097CC6C94D45.JPEG) | Stack view **(PRIMARY)** |
+| ![Covers 1](images/IMG_81CE2D72-3913-484D-BC09-A12FFE7E592D.JPEG) | Individual covers |
+| ![Covers 2](images/IMG_0CA9D421-543B-4883-A82C-6C04044EBDF5.JPEG) | More covers |
 
 ### Suggested Price Range
 $5 - $15 each, or $50 - $80 for the lot
 
 ---
 
+<!-- ITEM:item-15-mens-clothing-lot -->
 ## 15. Men's Clothing Lot
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-15-mens-clothing-lot -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Clothing
 **Condition:** Used - Good
@@ -404,19 +599,25 @@ $5 - $15 each, or $50 - $80 for the lot
 | Dress Shirt | Unbranded | M | White | Polyester/Elastane |
 
 ### Images
-- [Spread out](images/IMG_359BE444-5452-40DD-9541-134F9420B776.JPEG) **(PRIMARY)**
-- [Jeans detail](images/IMG_A505A6E7-7618-47D9-95C6-58C87AE1D1AD.JPEG)
-- [Shirts](images/IMG_D26E3CDF-341D-441A-AEBB-201DF9005AA9.JPEG)
-- [In bag](images/IMG_5ED89E20-5063-4954-B2B1-C843C8571FED.JPEG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Spread](images/IMG_359BE444-5452-40DD-9541-134F9420B776.JPEG) | Spread out **(PRIMARY)** |
+| ![Jeans](images/IMG_A505A6E7-7618-47D9-95C6-58C87AE1D1AD.JPEG) | Jeans detail |
+| ![Shirts](images/IMG_D26E3CDF-341D-441A-AEBB-201DF9005AA9.JPEG) | Shirts |
+| ![In bag](images/IMG_5ED89E20-5063-4954-B2B1-C843C8571FED.JPEG) | In bag |
 
 **Size Tags:**
-- [Kenneth Cole Blue - 15½ 32/33](images/IMG_2972.JPG)
-- [SAND Copenhagen Pink - 41](images/IMG_2973.JPG)
-- [H&M Gray Jeans - 31/32](images/IMG_2974.JPG)
-- [Light Blue Jeans - 32](images/IMG_2975.JPG)
-- [Kenneth Cole Purple - 15½ 32/33](images/IMG_2976.JPG)
-- [Lee Hoodie - S](images/IMG_2977.JPG)
-- [White Shirt - M](images/IMG_2978.JPG)
+
+| Preview | Description |
+|---------|-------------|
+| ![KC Blue](images/IMG_2972.JPG) | Kenneth Cole Blue - 15½ 32/33 |
+| ![SAND](images/IMG_2973.JPG) | SAND Copenhagen Pink - 41 |
+| ![H&M](images/IMG_2974.JPG) | H&M Gray Jeans - 31/32 |
+| ![Blue Jeans](images/IMG_2975.JPG) | Light Blue Jeans - 32 |
+| ![KC Purple](images/IMG_2976.JPG) | Kenneth Cole Purple - 15½ 32/33 |
+| ![Lee](images/IMG_2977.JPG) | Lee Hoodie - S |
+| ![White Shirt](images/IMG_2978.JPG) | White Shirt - M |
 
 ### Suggested Price Range
 - Kenneth Cole shirts: $12-18 each
@@ -442,4 +643,5 @@ $5 - $15 each, or $50 - $80 for the lot
 ---
 
 *Manifest created: 2026-02-01*
+*Last updated: 2026-02-08*
 *Images location: `./images/`*
