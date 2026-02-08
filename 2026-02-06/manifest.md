@@ -6,7 +6,23 @@
 
 ---
 
+## Delegate Instructions
+
+> After creating each listing, **save the URL**. When finished with all items, send ALL URLs in a single batch message. See [main instructions](../README.md#delegate-instructions).
+
+---
+
+<!-- ITEM:item-1-ozark-trail-camp-stove -->
 ## 1. Ozark Trail 7 Inch Camp Stove
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-1-ozark-trail-camp-stove -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Like New
@@ -28,23 +44,37 @@
 - Durable stainless steel
 
 ### Images
-- [Stove exterior](images/IMG_3224.JPG) **(PRIMARY)**
-- [Mesh carry bag](images/IMG_3226.JPG)
-- [Stove with bag](images/IMG_3227.JPG)
-- [With instruction manual](images/IMG_3228.JPG)
-- [Components spread out](images/IMG_3229.JPG)
-- [Top view showing vents](images/IMG_3230.JPG)
-- [Instruction manual detail](images/IMG_3231.JPG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Stove exterior](images/IMG_3224.JPG) | Stove exterior **(PRIMARY)** |
+| ![Mesh bag](images/IMG_3226.JPG) | Mesh carry bag |
+| ![Stove with bag](images/IMG_3227.JPG) | Stove with bag |
+| ![With manual](images/IMG_3228.JPG) | With instruction manual |
+| ![Components](images/IMG_3229.JPG) | Components spread out |
+| ![Top view](images/IMG_3230.JPG) | Top view showing vents |
+| ![Manual detail](images/IMG_3231.JPG) | Instruction manual detail |
 
 ### Video
-- [Demo video](images/IMG_3225.MOV)
+
+> **Demo video:** [IMG_3225.MOV](images/IMG_3225.MOV) - Click to download and view
 
 ### Suggested Price Range
 $15 - $25
 
 ---
 
+<!-- ITEM:item-2-traeger-signature-pellets -->
 ## 2. Traeger Signature Pellets
+
+### Listing Status
+<!-- EXECUTION_SIGNALS:item-2-traeger-signature-pellets -->
+| Field | Value |
+|-------|-------|
+| **Status** | `UNLISTED` |
+| **Listing URL** | _Pending_ |
+| **Platform** | — |
+<!-- /EXECUTION_SIGNALS -->
 
 **Category:** Patio & Garden / Grilling
 **Condition:** New - Sealed (verify)
@@ -64,8 +94,11 @@ $15 - $25
 - Great for smoking meats
 
 ### Images
-- [Bag front - Signature branding](images/IMG_3232.JPG) **(PRIMARY)**
-- [Bag side - blend details](images/IMG_3233.JPG)
+
+| Preview | Description |
+|---------|-------------|
+| ![Bag front](images/IMG_3232.JPG) | Bag front - Signature branding **(PRIMARY)** |
+| ![Bag side](images/IMG_3233.JPG) | Bag side - blend details |
 
 ### Suggested Price Range
 $15 - $20 (depending on local pricing)
@@ -81,4 +114,5 @@ $15 - $20 (depending on local pricing)
 ---
 
 *Manifest created: 2026-02-06*
+*Last updated: 2026-02-08*
 *Images location: `./images/`*

@@ -1,0 +1,9 @@
+{
+  "lastSequence": 1,
+  "entries": [
+    {
+      "branch": "refactor/inline-media-external-signals",
+      "adrs": ["001-inline-media-execution-signals.md"]
+    }
+  ]
+}

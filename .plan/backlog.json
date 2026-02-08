@@ -1,5 +1,5 @@
 {
-  "lastSequence": 1,
+  "lastSequence": 2,
   "items": [
     {
       "id": 1,
@@ -11,6 +11,18 @@
       "source": "/pro:chore",
       "sourceBranch": "chore/batch-directory-structure",
       "createdAt": "2026-02-06T12:03:00Z",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Inline media rendering and external execution signals",
+      "description": "Refactor inventory pages to: (1) render images/videos inline instead of as file links, (2) add execution signal placeholders for listing status and URLs, (3) add delegate instructions for batch URL submission, (4) create agent-targetable anchors for automated updates",
+      "category": "debt",
+      "severity": "medium",
+      "fingerprint": "debt|2|inline-media-external-signals",
+      "source": "/pro:refactor",
+      "sourceBranch": "refactor/inline-media-external-signals",
+      "createdAt": "2026-02-08T14:30:00Z",
       "status": "completed"
     }
   ]

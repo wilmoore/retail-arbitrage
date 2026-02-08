@@ -1,0 +1,112 @@
+{
+  "batchId": "2026-02-01",
+  "lastUpdated": "2026-02-08T14:30:00Z",
+  "items": {
+    "item-1-hp-zbook-fury": {
+      "status": "hold",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null,
+      "notes": "Awaiting HP authorization (case CS0337651)"
+    },
+    "item-2-trek-fx-hybrid-bike": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-3-dji-mic-2": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-4-canvas-camera-backpack": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-5-usb-condenser-microphone": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-6-stainless-steel-knife-set": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-7-flexible-phone-tripod": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-8-selfie-stick-tripod": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-9-car-charger": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-10-camping-hammock": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-11-inflatable-camping-pillows": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-12-puma-quilted-tote": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-13-poler-duffel-bag": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-14-book-collection": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    },
+    "item-15-mens-clothing-lot": {
+      "status": "unlisted",
+      "listingUrl": null,
+      "platform": null,
+      "listedAt": null,
+      "soldAt": null
+    }
+  }
+}
