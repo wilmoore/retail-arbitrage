@@ -18,7 +18,14 @@ Each batch has a corresponding JSON file:
       "listingUrl": "https://...",
       "platform": "facebook|offerup|craigslist|ebay",
       "listedAt": "ISO-8601",
-      "soldAt": "ISO-8601"
+      "soldAt": "ISO-8601",
+      "additionalListings": [
+        {
+          "platform": "ebay|offerup|craigslist",
+          "listingUrl": "https://...",
+          "listedAt": "ISO-8601"
+        }
+      ]
     }
   }
 }

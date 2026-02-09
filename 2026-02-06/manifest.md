@@ -24,6 +24,10 @@
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, Craigslist
+
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Like New
 **Brand:** Ozark Trail
@@ -75,6 +79,10 @@ $15 - $25
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, Craigslist
 
 **Category:** Patio & Garden / Grilling
 **Condition:** New - Sealed (verify)

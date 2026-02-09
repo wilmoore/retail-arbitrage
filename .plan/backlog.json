@@ -1,6 +1,18 @@
 {
-  "lastSequence": 3,
+  "lastSequence": 4,
   "items": [
+    {
+      "id": 4,
+      "title": "Add marketplace recommendations to all items",
+      "description": "Add 'Recommended Marketplaces' section to each item listing with item-specific platform suggestions (FB, OfferUp, Craigslist, eBay). Priority on laptop which should list on eBay. Update manifest structure, signals schema if needed, and README.",
+      "category": "chore",
+      "severity": "medium",
+      "fingerprint": "chore|4|add-marketplace-listings",
+      "source": "/pro:chore",
+      "sourceBranch": "chore/add-marketplace-listings",
+      "createdAt": "2026-02-08T23:30:00Z",
+      "status": "completed"
+    },
     {
       "id": 1,
       "title": "Batch directory structure with top-level index",
