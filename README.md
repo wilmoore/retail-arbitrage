@@ -1,6 +1,22 @@
 # Retail Arbitrage Listings
 
-> Photo batches for Facebook Marketplace delegation
+> Multi-platform marketplace listings for retail arbitrage
+
+---
+
+## Marketplace Strategy
+
+Each item includes **Recommended Marketplaces** guidance:
+
+| Category | Primary Platform | Also List On |
+|----------|------------------|--------------|
+| Electronics (laptops, audio) | eBay | FB Marketplace, OfferUp |
+| Bikes | FB Marketplace | Craigslist, OfferUp |
+| Camping/Outdoor | FB Marketplace | OfferUp, Craigslist |
+| Bags/Accessories | FB Marketplace | OfferUp |
+| Books | eBay | FB Marketplace |
+| Clothing | FB Marketplace | OfferUp, Craigslist |
+| Home/Kitchen | FB Marketplace | OfferUp |
 
 ---
 

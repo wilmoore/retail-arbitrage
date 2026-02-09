@@ -24,6 +24,10 @@
 | **Platform** | Facebook Marketplace |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** eBay (best reach for electronics, buyers expect shipping)
+- **Also list on:** Facebook Marketplace, OfferUp
+
 **Category:** Electronics / Computers
 **Condition:** Used - Excellent (Sold As-Is)
 **Brand:** HP
@@ -88,6 +92,10 @@ $300 (sold as-is, no power adapter included)
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace (strong local bike community)
+- **Also list on:** Craigslist, OfferUp
+
 **Category:** Sports & Outdoors / Bicycles
 **Condition:** Used - Good
 **Brand:** Trek
@@ -137,6 +145,10 @@ $350 - $500
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** eBay (premium audio gear, nationwide buyers)
+- **Also list on:** Facebook Marketplace, OfferUp
 
 **Category:** Electronics / Audio Equipment
 **Condition:** Used - Like New
@@ -196,6 +208,10 @@ $250 - $300
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, eBay
+
 **Category:** Camera & Photo / Bags
 **Condition:** Used - Good
 **Brand:** Generic/Unbranded
@@ -237,6 +253,10 @@ $30 - $50
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, eBay
+
 **Category:** Electronics / Audio Equipment
 **Condition:** Used - Good
 **Type:** USB Condenser Microphone
@@ -272,6 +292,10 @@ $40 - $60
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
+
 **Category:** Home & Kitchen
 **Condition:** Used - Good
 **Material:** Stainless Steel
@@ -305,6 +329,10 @@ $15 - $25
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
 
 **Category:** Electronics / Camera Accessories
 **Condition:** Used - Good
@@ -341,6 +369,10 @@ $10 - $15
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
+
 **Category:** Electronics / Camera Accessories
 **Condition:** Used - Good
 **Color:** Black with orange accent ring
@@ -376,6 +408,10 @@ $15 - $20
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
+
 **Category:** Electronics / Car Accessories
 **Condition:** Used - Good
 
@@ -407,6 +443,10 @@ $8 - $12
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, Craigslist
 
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Good
@@ -444,6 +484,10 @@ $20 - $35
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
 
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
+
 **Category:** Sports & Outdoors / Camping
 **Condition:** Used - Good
 **Color:** Orange
@@ -475,6 +519,10 @@ $10 - $15
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
 
 **Category:** Bags & Accessories
 **Condition:** Used - Good
@@ -510,6 +558,10 @@ $20 - $35
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp
 
 **Category:** Bags & Accessories
 **Condition:** Used - Good
@@ -547,6 +599,10 @@ $25 - $40
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** eBay (best for specific titles, nationwide reach)
+- **Also list on:** Facebook Marketplace
 
 **Category:** Books
 **Condition:** Used - Good
@@ -587,6 +643,10 @@ $5 - $15 each, or $50 - $80 for the lot
 | **Listing URL** | _Pending_ |
 | **Platform** | — |
 <!-- /EXECUTION_SIGNALS -->
+
+### Recommended Marketplaces
+- **Primary:** Facebook Marketplace
+- **Also list on:** OfferUp, Craigslist
 
 **Category:** Clothing
 **Condition:** Used - Good
@@ -636,7 +696,7 @@ $5 - $15 each, or $50 - $80 for the lot
 
 ## Notes for Lister
 
-1. **HP ZBook Fury 15.6" G8** - **DO NOT LIST YET** - Awaiting HP authorization (case CS0337651). Follow-up sent Feb 1, 2026. Once cleared, consider listing on eBay as well. No power adapter included.
+1. **HP ZBook Fury 15.6" G8** - **PRIORITY: List on eBay** (best reach for electronics). Also list on FB Marketplace and OfferUp. No power adapter included.
 
 2. **Trek Bike** - Frame size XXL confirmed. Good for riders 6'2"+ (188cm+).
 
