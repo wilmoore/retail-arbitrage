@@ -1,14 +1,14 @@
 {
   "batchId": "2026-02-01",
-  "lastUpdated": "2026-02-08T14:30:00Z",
+  "lastUpdated": "2026-02-08T22:00:00Z",
   "items": {
     "item-1-hp-zbook-fury": {
-      "status": "hold",
+      "status": "listed",
       "listingUrl": null,
-      "platform": null,
-      "listedAt": null,
+      "platform": "facebook",
+      "listedAt": "2026-02-08",
       "soldAt": null,
-      "notes": "Awaiting HP authorization (case CS0337651)"
+      "notes": "Sold as-is. Enterprise security, Windows locked. Suitable for Linux or parts. Price: $300"
     },
     "item-2-trek-fx-hybrid-bike": {
       "status": "unlisted",

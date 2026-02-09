@@ -1,5 +1,5 @@
 {
-  "lastSequence": 2,
+  "lastSequence": 3,
   "items": [
     {
       "id": 1,
@@ -23,6 +23,18 @@
       "source": "/pro:refactor",
       "sourceBranch": "refactor/inline-media-external-signals",
       "createdAt": "2026-02-08T14:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": 3,
+      "title": "HP laptop listing update",
+      "description": "Update HP ZBook Fury listing: add 4 new photos, update price to $300, change status to LISTED, update condition notes for enterprise security/Windows lock (sold as-is, suitable for Linux/parts), remove HP authorization hold",
+      "category": "chore",
+      "severity": "medium",
+      "fingerprint": "chore|3|hp-laptop-listing-update",
+      "source": "/pro:chore",
+      "sourceBranch": "chore/hp-laptop-updates",
+      "createdAt": "2026-02-08T22:00:00Z",
       "status": "completed"
     }
   ]

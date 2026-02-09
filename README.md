@@ -31,7 +31,7 @@ This enables efficient repo updates and tracking.
 
 | Batch | Items | Status | Listed | Sold |
 |-------|-------|--------|--------|------|
-| [2026-02-01](2026-02-01/manifest.md) | 15 categories | Ready for listing | 0 | 0 |
+| [2026-02-01](2026-02-01/manifest.md) | 15 categories | In progress | 1 | 0 |
 | [2026-02-06](2026-02-06/manifest.md) | 2 categories | Ready for listing | 0 | 0 |
 
 ## Quick Links

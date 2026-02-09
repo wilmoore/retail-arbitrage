@@ -19,26 +19,28 @@
 <!-- EXECUTION_SIGNALS:item-1-hp-zbook-fury -->
 | Field | Value |
 |-------|-------|
-| **Status** | `HOLD` |
-| **Listing URL** | _Awaiting HP authorization_ |
-| **Platform** | — |
+| **Status** | `LISTED` |
+| **Listing URL** | _Update when listed_ |
+| **Platform** | Facebook Marketplace |
 <!-- /EXECUTION_SIGNALS -->
 
-> **DO NOT LIST** until HP responds with authorization (Case: CS0337651)
-
 **Category:** Electronics / Computers
-**Condition:** Used - Good
+**Condition:** Used - Excellent (Sold As-Is)
 **Brand:** HP
 **Model:** ZBook Fury 15.6 inch G8 Mobile Workstation
 **Product ID:** 518Y3UC#ABA
 **Serial Number:** CND2245FBM
 **RMN:** HSNC13C-5
 
+### Important Notice
+
+> **SOLD AS-IS.** This laptop was originally issued as a corporate device and retains enterprise security. Windows is present but locked. Device can access BIOS/boot menu and is suitable for **Linux installation** or **parts**. No guarantees on Windows activation.
+
 ### Specifications
-- **Processor:** Intel Core i7-11850H (11th Gen, 8 cores, up to 4.8 GHz)
+- **Processor:** Intel Core i7-11800H (11th Gen, 8 cores, up to 4.6 GHz)
 - **Display:** 15.6" Full HD (1920 x 1080) IPS, anti-glare
 - **Memory:** 32GB DDR4 (4 SODIMM slots, expandable to 128GB)
-- **Storage:** 512GB - 1TB M.2 NVMe SSD (verify when powered)
+- **Storage:** M.2 NVMe SSD slot (verify capacity)
 - **Graphics:** NVIDIA RTX Professional GPU (T1200/A2000/A3000 depending on config)
 - **Ports:** 2x Thunderbolt 4, 2x USB 3.1 Type-A, HDMI, Mini DisplayPort, RJ45 Ethernet, SD card reader
 - **Security:** TPM 2.0, Fingerprint reader, HP Privacy Camera w/ shutter, HP Sure Start
@@ -49,9 +51,9 @@
 
 ### Key Selling Points
 - Professional workstation-class laptop
-- Excellent for video editing, 3D rendering, CAD, software development
+- Hardware in excellent condition
+- Ideal for Linux users or as parts donor
 - Premium build quality with metal chassis
-- Enterprise security features
 - MIL-SPEC durability rating
 
 ### Images
@@ -64,9 +66,13 @@
 | ![Left ports](images/IMG_BAE1AAA9-56DC-40FA-BA8F-57BC8534C19C.JPEG) | Side ports - left |
 | ![Bottom serial](images/IMG_8D263B7A-C3FB-4FDD-A5F1-61D35CC18707.JPEG) | Bottom/serial label |
 | ![Side view](images/IMG_970676D9-AD89-4238-BDE4-AAF279F7C425.JPEG) | Closed side view |
+| ![Boot menu](images/IMG_3433.JPG) | UEFI Boot Menu - system boots |
+| ![Boot options](images/IMG_3434.JPG) | Boot options detail |
+| ![System info](images/IMG_3435.JPG) | System Information - specs verified |
+| ![System info wide](images/IMG_3436.JPG) | System Information - full view |
 
-### Suggested Price Range
-$600 - $900 (G8 model, no power adapter included - buyer will need 200W HP adapter)
+### Suggested Price
+$300 (sold as-is, no power adapter included)
 
 ---
 
