@@ -19,3 +19,4 @@ We use the [Michael Nygard format](https://cognitect.com/blog/2011/11/15/documen
 ## Index
 
 - [001. Inline Media and Execution Signal Architecture](001-inline-media-execution-signals.md)
+- [002. File-Based Inventory Tracking](002-file-based-inventory-tracking.md)

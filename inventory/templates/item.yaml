@@ -1,0 +1,22 @@
+item:
+  id: ""
+  name: ""
+  description: ""
+  category: ""
+  condition: ""
+  quantity: 1
+  created_at: ""
+  updated_at: ""
+
+acquisition:
+  cost: null
+  source: ""
+  acquired_date: ""
+  acquisition_notes: ""
+
+pricing:
+  target_price: null
+  floor_price: null
+  initial_list_price: null
+
+general_notes: ""

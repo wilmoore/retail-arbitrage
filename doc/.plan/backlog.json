@@ -1,0 +1,41 @@
+{
+  "lastSequence": 3,
+  "items": [
+    {
+      "id": 1,
+      "title": "Add file-based item tracking",
+      "description": "Move from one-off batch manifests toward an ongoing, file-based tracking system for items: what is listed, where, for how long, and what it sells for vs list price. Keep existing batch/manifest and .signals flow intact; add a new inventory record structure for new items going forward.",
+      "category": "feature",
+      "severity": "medium",
+      "fingerprint": "feature|1|add-file-based-item-tracking",
+      "source": "/pro:feature",
+      "sourceBranch": "feat/add-file-based-item-tracking",
+      "createdAt": "2026-03-22T16:23:05Z",
+      "status": "in-progress"
+    },
+    {
+      "id": 2,
+      "title": "Add inventory reporting and optional .signals sync",
+      "description": "Add simple, file-based reports (e.g., listed items, stale listings, price deltas) and optionally sync key fields between inventory listing records and existing batch .signals files when a batch item is promoted into inventory.",
+      "category": "feature",
+      "severity": "low",
+      "fingerprint": "feature|2|add-inventory-reporting-and-optional-signals-sync",
+      "source": "/pro:feature",
+      "sourceBranch": "feat/add-file-based-item-tracking",
+      "createdAt": "2026-03-22T16:23:05Z",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "title": "Add optional schema validation for inventory YAML",
+      "description": "Add lightweight schema validation (JSON Schema or simple script) for `inventory/items/*/item.yaml` and `inventory/items/*/listings.yaml` to prevent drift once volume increases.",
+      "category": "feature",
+      "severity": "low",
+      "fingerprint": "feature|3|add-optional-schema-validation-for-inventory-yaml",
+      "source": "/pro:pr",
+      "sourceBranch": "feat/add-file-based-item-tracking",
+      "createdAt": "2026-03-22T20:23:54Z",
+      "status": "pending"
+    }
+  ]
+}

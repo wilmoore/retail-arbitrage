@@ -1,0 +1,19 @@
+{
+  "lastSequence": 2,
+  "entries": [
+    {
+      "number": 1,
+      "file": "doc/decisions/001-inline-media-execution-signals.md",
+      "title": "Inline Media and Execution Signal Architecture",
+      "date": "2026-02-08",
+      "branches": []
+    },
+    {
+      "number": 2,
+      "file": "doc/decisions/002-file-based-inventory-tracking.md",
+      "title": "File-Based Inventory Tracking",
+      "date": "2026-03-22",
+      "branches": ["feat/add-file-based-item-tracking"]
+    }
+  ]
+}
