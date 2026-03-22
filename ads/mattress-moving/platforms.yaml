@@ -1,0 +1,33 @@
+platforms:
+
+  craigslist:
+    posted: true
+    url: ""
+    last_posted: "2026-03-11"
+    created_at: "2026-03-11"
+    updated_at: "2026-03-11"
+    notes: "posting_id=7920650924 payment_id=305766735 posting_fee=5"
+
+  facebook_marketplace:
+    posted: false
+    url: ""
+    last_posted: ""
+    created_at: ""
+    updated_at: ""
+    notes: ""
+
+  offerup:
+    posted: false
+    url: ""
+    last_posted: ""
+    created_at: ""
+    updated_at: ""
+    notes: ""
+
+  nextdoor:
+    posted: false
+    url: ""
+    last_posted: ""
+    created_at: ""
+    updated_at: ""
+    notes: ""

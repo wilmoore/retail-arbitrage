@@ -1,0 +1,25 @@
+ad:
+  id: craigslist-mattress-moving-help-wpb-2026-03-11
+  platform: craigslist
+  region: south-florida
+  city: west-palm-beach
+  category: services/labor-hauling-moving
+  title: "Mattress Moving Help - $60 (Mattress, Box Spring, Bed Frame)"
+  price: 60
+  posting_fee: 5
+  payment_source: robinhood_cash
+  posted_date: 2026-03-11
+  posting_id: 7920650924
+  payment_id: 305766735
+  status: active
+  images: false
+  purpose:
+    - transport_jobs
+    - mattress_buyer_leads
+    - mattress_seller_leads
+
+metrics:
+  inquiries: 0
+  jobs_booked: 0
+  revenue: 0
+  last_checked: 2026-03-11
