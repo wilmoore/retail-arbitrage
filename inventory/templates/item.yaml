@@ -10,9 +10,9 @@ item:
 
 acquisition:
   cost: null
-  source: ""
-  acquired_date: ""
-  acquisition_notes: ""
+  source: null
+  acquired_date: null
+  acquisition_notes: null
 
 pricing:
   target_price: null

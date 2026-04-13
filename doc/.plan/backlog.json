@@ -1,5 +1,5 @@
 {
-  "lastSequence": 3,
+  "lastSequence": 5,
   "items": [
     {
       "id": 1,
@@ -35,6 +35,30 @@
       "source": "/pro:pr",
       "sourceBranch": "feat/add-file-based-item-tracking",
       "createdAt": "2026-03-22T20:23:54Z",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "title": "Record items listed on 2026-03-22",
+      "description": "Capture the set of items listed on 2026-03-22 into the new file-based inventory system (one directory per item with item metadata and a single listings.yaml), so we can track listing duration, platform, and eventual sold vs list price.",
+      "category": "chore",
+      "severity": "medium",
+      "fingerprint": "chore|4|record-items-listed-on-2026-03-22",
+      "source": "/pro:chore",
+      "sourceBranch": "chore/items-listed-2026-03-22",
+      "createdAt": "2026-03-23T01:49:06Z",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "title": "Backfill listing metadata and sale details for recent items",
+      "description": "Backfill listing platform, URLs, list prices, and sold dates/prices for recently added inventory items so listings can be tracked accurately (including sold vs list price).",
+      "category": "chore",
+      "severity": "low",
+      "fingerprint": "chore|5|backfill-listing-metadata-and-sale-details-for-recent-items",
+      "source": "/pro:pr",
+      "sourceBranch": "chore/items-listed-2026-03-22",
+      "createdAt": "2026-04-13T22:14:02Z",
       "status": "pending"
     }
   ]

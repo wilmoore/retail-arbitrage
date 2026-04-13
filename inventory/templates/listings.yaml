@@ -4,7 +4,7 @@ listings:
     list_price: null
     posted_date: ""
     url: ""
-    status: active
+    status: "draft"
     created_at: ""
     updated_at: ""
     notes: ""

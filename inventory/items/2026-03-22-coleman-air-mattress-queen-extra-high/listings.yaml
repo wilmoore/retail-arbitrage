@@ -1,0 +1,18 @@
+listings:
+  - platform: ""
+    title: "Coleman Queen Extra High Air Mattress (w/ Bag)"
+    list_price: null
+    posted_date: "2026-03-22"
+    url: ""
+    status: "draft"
+    created_at: "2026-03-22"
+    updated_at: "2026-03-22"
+    notes: "Platform + URL pending"
+
+    metrics:
+      inquiries: 0
+      last_checked: "2026-03-22"
+
+    sale:
+      sold_date: ""
+      sold_price: null

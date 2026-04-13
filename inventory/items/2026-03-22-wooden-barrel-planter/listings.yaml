@@ -1,0 +1,18 @@
+listings:
+  - platform: ""
+    title: "Rustic Wooden Barrel Planter, Solid Wood, Outdoor Pot"
+    list_price: 40
+    posted_date: "2026-03-22"
+    url: ""
+    status: "draft"
+    created_at: "2026-03-22"
+    updated_at: "2026-03-22"
+    notes: "Platform + URL pending"
+
+    metrics:
+      inquiries: 0
+      last_checked: "2026-03-22"
+
+    sale:
+      sold_date: ""
+      sold_price: null
