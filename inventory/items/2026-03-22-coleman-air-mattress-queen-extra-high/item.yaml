@@ -1,0 +1,22 @@
+item:
+  id: "2026-03-22-coleman-air-mattress-queen-extra-high"
+  name: "Coleman Air Mattress (Queen Extra High)"
+  description: "Coleman air mattress with carry bag labeled 'Queen-Extra High'."
+  category: "outdoor/camping/sleeping"
+  condition: "used-good"
+  quantity: 1
+  created_at: "2026-03-22"
+  updated_at: "2026-03-22"
+
+acquisition:
+  cost: null
+  source: null
+  acquired_date: null
+  acquisition_notes: null
+
+pricing:
+  target_price: null
+  floor_price: null
+  initial_list_price: null
+
+general_notes: "Photos: retail-arbitrage-2026-03-22-04/IMG_5730..IMG_5733. Verify it holds air overnight; note if pump is built-in or included separately."

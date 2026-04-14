@@ -1,0 +1,22 @@
+item:
+  id: "2026-03-22-lasko-tower-fan-2535"
+  name: "Lasko Tower Fan"
+  description: "Lasko oscillating tower fan, model 2535. Tested and working. Clean with no visible damage."
+  category: "home/appliances"
+  condition: "used-good"
+  quantity: 1
+  created_at: "2026-03-22"
+  updated_at: "2026-03-22"
+
+acquisition:
+  cost: null
+  source: null
+  acquired_date: null
+  acquisition_notes: null
+
+pricing:
+  target_price: null
+  floor_price: null
+  initial_list_price: null
+
+general_notes: "Features: 3 speeds, timer (0.5-4 hr), oscillation, quiet operation. Power: 120V AC, 60Hz, 0.40A."

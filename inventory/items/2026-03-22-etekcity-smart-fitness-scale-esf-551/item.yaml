@@ -1,0 +1,22 @@
+item:
+  id: "2026-03-22-etekcity-smart-fitness-scale-esf-551"
+  name: "Etekcity Smart Fitness Scale"
+  description: "Etekcity smart scale (ESF-551) with VeSync app connectivity. Tested and working. Tempered glass platform."
+  category: "home/fitness"
+  condition: "used-good"
+  quantity: 1
+  created_at: "2026-03-22"
+  updated_at: "2026-03-22"
+
+acquisition:
+  cost: null
+  source: null
+  acquired_date: null
+  acquisition_notes: null
+
+pricing:
+  target_price: 20
+  floor_price: 18
+  initial_list_price: 25
+
+general_notes: "Capacity 400 lb / 180 kg. Increments 0.05 lb. Batteries: 3x AAA (included). Minor cosmetic wear."

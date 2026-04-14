@@ -1,5 +1,5 @@
 {
-  "lastSequence": 2,
+  "lastSequence": 3,
   "entries": [
     {
       "number": 1,
@@ -14,6 +14,13 @@
       "title": "File-Based Inventory Tracking",
       "date": "2026-03-22",
       "branches": ["feat/add-file-based-item-tracking"]
+    },
+    {
+      "number": 3,
+      "file": "doc/decisions/003-inventory-template-defaults.md",
+      "title": "Inventory Template Defaults",
+      "date": "2026-04-13",
+      "branches": ["chore/items-listed-2026-03-22"]
     }
   ]
 }
